@@ -1,4 +1,4 @@
-let faceapi;
+let facemesh;
 let video;
 let predictions = [];
 const pointsToDraw = [
